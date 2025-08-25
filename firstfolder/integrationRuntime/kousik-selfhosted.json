@@ -1,0 +1,6 @@
+{
+	"name": "kousik-selfhosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

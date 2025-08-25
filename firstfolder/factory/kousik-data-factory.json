@@ -1,0 +1,9 @@
+{
+	"name": "kousik-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ba33c50-4a3b-44eb-90e3-64894f1b16c3",
+		"tenantId": "0de2bd89-db02-4780-afad-e4b9eb3644a5"
+	}
+}
